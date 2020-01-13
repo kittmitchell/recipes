@@ -1,5 +1,4 @@
 cat
 eggs
 milk
-flour
 CHOCOLATE
